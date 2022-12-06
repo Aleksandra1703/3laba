@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  ParaProg3.cpp
+c:\users\иннокентий\desktop\codingrep\paraprog3\paraprog3\paraprog3.cpp(45): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+ParaProg3.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/INCREMENTAL:NO"
+  ParaProg3.vcxproj -> C:\Users\Иннокентий\Desktop\CodingRep\ParaProg3\Debug\ParaProg3.exe
